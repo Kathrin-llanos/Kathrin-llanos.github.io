@@ -42,7 +42,10 @@ footer {
 }
 
 h1{
-
     font-family: 'Times New Roman', Times, serif;
+}
 
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
 }
